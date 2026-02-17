@@ -4,5 +4,4 @@ An AI Agent tool that helps students and migrants understand public services (he
 
 ### Architecture
 
-![Architecture of EU Navigator](images/eu-navigator-architecture.png)
-)
+<img src= "images/eu-navigator-architecture.png" width="60%" alt="Architecture of EU Navigator" />
