@@ -1,6 +1,6 @@
 ## EU Navigator
 
-An AI Agent that helps international students and migrants understand EU public services (health, tax ids and residence permits) that are written in different languages than their own language. It supports English, Hindi, German, French and Spanish languages
+An AI Agent that helps international students and migrants understand EU public services (health, tax ids and residence permits). It supports English, Hindi, German, French and Spanish languages
 
 ### Architecture
 

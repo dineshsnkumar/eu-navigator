@@ -38,7 +38,7 @@ def add_document():
     confirm = input("Add this document? (y/n)").strip().lower()
 
     if confirm == 'y':
-        output_file = 'eu-navigator-api/data/tier1_documents.jsonl'
+        output_file = '../data/tier1_documents.jsonl'
 
         with open(output_file, 'a', encoding='utf-8') as f:
             f.write(json.dumps(doc, ensure_ascii=True) + '\n')
